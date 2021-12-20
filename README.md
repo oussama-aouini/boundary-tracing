@@ -6,4 +6,4 @@
 
 in matlab, python and julia
 
-I will also try to implemented with Rust and interface it with python, julia and javascript.
+I will also try to implement it with Rust and interface it with python, julia and javascript.

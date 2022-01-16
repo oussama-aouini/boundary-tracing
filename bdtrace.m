@@ -1,4 +1,4 @@
-function [boundary] = trace(image)
+function [boundary] = bdtrace(image)
 %TRACE the bouandary of a given image
 %   returns a 2xn matrix containing the coordinates of the image boundary (n is the legth of the boundary) and
 %   a binary image showing only the contour of the shape.
